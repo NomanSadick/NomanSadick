@@ -24,8 +24,8 @@ Skills:  HTML / CSS / JS / ES6 / REACT  / NODE / MONGODB /  EXPRESS
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NomanSadick)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/NomanSadick)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NomanSadick)  
+<!-- 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NomanSadick)   -->
 
 ![Profile views](https://gpvc.arturio.dev/NomanSadick)  
 
