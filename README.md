@@ -9,7 +9,7 @@ Tools: VS Code, Git, Chrome Dev tool, Firebase, Netlify, Heroku.
 
 Skills:  HTML / CSS / JS / ES6 / REACT  / NODE / MONGODB /  EXPRESS
 
-- 🔭 I’m currently working on Deeni Info Tech 
+- 🔭 I’m currently working on TripNest Limited 
 - 🌱 I’m currently learning Next.js 
 
 
